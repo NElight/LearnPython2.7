@@ -1,5 +1,6 @@
 eclipse.preferences.version=1
 encoding//yzg/Date.py=utf-8
+encoding//yzg/Dict.py=utf-8
 encoding//yzg/Exception.py=utf-8
 encoding//yzg/FileIO.py=utf-8
 encoding//yzg/Function.py=utf-8
@@ -8,6 +9,7 @@ encoding//yzg/Loop.py=utf-8
 encoding//yzg/Module.py=utf-8
 encoding//yzg/MyClass.py=utf-8
 encoding//yzg/ParentClass.py=utf-8
+encoding//yzg/Set.py=utf-8
 encoding//yzg/Tuple.py=utf-8
 encoding//yzg/TypeIdentify.py=utf-8
 encoding//yzg/base.py=utf-8

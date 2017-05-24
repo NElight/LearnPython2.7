@@ -30,3 +30,13 @@ for index in (1,3,4,5):
         break;
 else:
     print "lala" 
+    
+    
+#========================循环技巧
+for i,v in enumerate([1,2,3,4,5]):
+    print i, v
+    
+questions = ['name', 'quest', 'favorite color']
+answers = ['lancelot', 'the holy grail', 'blue']
+for q,a in zip(questions, answers): #使用zip将多个序列压在一起同时便利
+    print q,a

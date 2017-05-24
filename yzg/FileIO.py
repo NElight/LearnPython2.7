@@ -5,6 +5,9 @@ import os
 
 # str = raw_input("who are you\n")
 # print str
+a=1/7
+print str(a)
+print repr(a)
 
 print range(2, 10, 2)
 
@@ -33,12 +36,12 @@ print str
 
 fo.close()
 
-os.rename("foo1.txt", "foo.txt")
-os.remove("foo.txt")
-os.mkdir("testdir")
-os.chdir("../")
-os.getcwd()
-os.rmdir("testdir")
+# os.rename("foo1.txt", "foo.txt")
+# os.remove("foo.txt")
+# os.mkdir("testdir")
+# os.chdir("../")
+# os.getcwd()
+# os.rmdir("testdir")
 
 
  
